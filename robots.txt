@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://lin-jjjj.github.io/sitemap.xml
